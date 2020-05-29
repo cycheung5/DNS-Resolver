@@ -1,0 +1,119 @@
+Google output
+Enter domain:
+www.google.com
+QUESTION SECTION:
+www.google.com. IN A
+ANSWER SECTION:
+www.google.com. 300 IN A 172.217.13.132
+Query Time:
+130 ms
+When:
+Mon Feb 24 18:48:31 2020
+
+Youtube Output
+Enter domain:
+www.youtube.com
+QUESTION SECTION:
+www.youtube.com. IN A
+ANSWER SECTION:
+www.youtube.com. 86400 IN CNAME youtube-ui.l.google.com.
+Query Time:
+143 ms
+When:
+Mon Feb 24 18:49:45 2020
+
+Baidu Output
+Enter domain:
+www.baidu.com
+QUESTION SECTION:
+www.baidu.com. IN A
+ANSWER SECTION:
+www.baidu.com. 1200 IN CNAME www.a.shifen.com.
+Query Time:
+340 ms
+When:
+Mon Feb 24 18:50:15 2020
+
+Facebook Output
+Enter domain:
+www.facebook.com
+QUESTION SECTION:
+www.facebook.com. IN A
+ANSWER SECTION:
+www.facebook.com. 3600 IN CNAME star-mini.c10r.facebook.com.
+Query Time:
+138 ms
+When:
+Mon Feb 24 18:50:33 2020
+
+Taobao Output
+Enter domain:
+www.taobao.com
+QUESTION SECTION:
+www.taobao.com. IN A
+ANSWER SECTION:
+www.taobao.com. 600 IN CNAME www.taobao.com.danuoyi.tbcache.com.
+Query Time:
+166 ms
+When:
+Mon Feb 24 18:50:51 2020
+
+Tmall Output
+Enter domain:
+www.tmall.com
+QUESTION SECTION:
+www.tmall.com. IN A
+ANSWER SECTION:
+www.tmall.com. 601 IN CNAME www.tmall.com.danuoyi.tbcache.com.
+Query Time:
+228 ms
+When:
+Mon Feb 24 18:51:10 2020
+
+Yahoo Output
+Enter domain:
+www.yahoo.com
+QUESTION SECTION:
+www.yahoo.com. IN A
+ANSWER SECTION:
+www.yahoo.com. 1800 IN CNAME atsv2-fp-shed.wg1.b.yahoo.com.
+Query Time:
+189 ms
+When:
+Mon Feb 24 18:51:27 2020
+
+Netflix Output
+Enter domain:
+www.netflix.com
+QUESTION SECTION:
+www.netflix.com. IN A
+ANSWER SECTION:
+www.netflix.com. 1800 IN CNAME www.geo.netflix.com.
+Query Time:
+211 ms
+When:
+Mon Feb 24 18:51:46 2020
+
+Sohu Output
+Enter domain:
+www.sohu.com
+QUESTION SECTION:
+www.sohu.com. IN A
+ANSWER SECTION:
+www.sohu.com. 1800 IN CNAME gs.a.sohu.com.
+Query Time:
+510 ms
+When:
+Mon Feb 24 18:55:33 2020
+
+Blogspot Outspot
+Enter domain:
+www.blogspot.com
+QUESTION SECTION:
+www.blogspot.com. IN A
+ANSWER SECTION:
+www.blogspot.com. 3600 IN CNAME blogger.l.google.com.
+Query Time:
+126 ms
+When:
+Mon Feb 24 18:57:48 2020
